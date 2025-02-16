@@ -4,4 +4,4 @@ Lo script serve per splittare il file (*.vcf) della rubrica esportata dal cellul
 Il file VCF deve essere nominato "contactsnew.vcf"
 oppure bisogna modificare la riga 4 dello script inserendo il nome file che si preferisce
 
-riga 4. input_file = 'contactsnew.vcf'
+4: input_file = 'contactsnew.vcf'
